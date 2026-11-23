@@ -18,6 +18,6 @@ SRE Manager at **Canonical**, leading infrastructure teams across AMER and APAC,
 Ubuntu · Linux · Kubernetes · Terraform · GitOps · AWS · Jenkins · PostgreSQL · Python · Java · SQL
 
 ### Find me
-[LinkedIn](https://www.linkedin.com/in/fernandocarrillocastro) · [YouTube (classes)](https://www.youtube.com/@fernandocarrillocastro687) · [ORCID](https://orcid.org/0000-0002-2487-4963) · [ResearchGate](https://www.researchgate.net/profile/Fernando-Carrillo-Castro) · [Credly](https://www.credly.com/users/fernando-carrillo-castro)
+[LinkedIn](https://www.linkedin.com/in/fernandocarrillocastro) · [YouTube (classes)](https://www.youtube.com/@fernandocarrillocastro687) · [ORCID](https://orcid.org/0000-0002-2487-4963) · [ResearchGate](https://www.researchgate.net/profile/Fernando-Carrillo-Castro) · [Google Scholar](https://scholar.google.com/citations?user=GxJmh08AAAAJ) · [Credly](https://www.credly.com/users/fernando-carrillo-castro)
 
 Most public repos here are teaching material from my courses.
